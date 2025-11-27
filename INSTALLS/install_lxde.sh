@@ -15,7 +15,7 @@ sudo bash -c 'cat <<EOF >/usr/bin/gol
 #!/bin/bash
 Xephyr -br -fullscreen -resizeable :20 &
 sleep 5
-DISPLAY=:20 startlxde &
+sudo DISPLAY=:20 startlxde &
 EOF'
 
 # Make gol executable
