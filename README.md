@@ -6,4 +6,4 @@ Simple scripts to get custom desktops (or other things) on the Linux container o
 
 do
 
-bash <(curl -fsSL https://raw.githubusercontent.com/TheG00DMan/CCD/main/INSTALLS/Installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/TheG00DMan/CCD/main/Installer.sh)
